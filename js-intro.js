@@ -1,3 +1,4 @@
+
 // ASSESSMENT 1: INTRO TO JAVASCRIPT
 // Coding practical questions
 
